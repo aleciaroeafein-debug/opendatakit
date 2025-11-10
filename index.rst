@@ -27,5 +27,5 @@ to your project here, explaining its purpose and key features.
    actual filenames (without the .rst extension) of your other documentation pages.
    Ensure these files exist in the same directory or a subdirectory.
 
-.. meta::
-  :google-site-verification: <KtHpoBfGcAVZN4Q-a_QQP9kGo2B5eCaorUVbOvU4inE>
+.. raw:: html 
+<meta name="google-site-verification" content="KtHpoBfGcAVZN4Q-a_QQP9kGo2B5eCaorUVbOvU4inE" />
