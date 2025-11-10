@@ -26,5 +26,6 @@ to your project here, explaining its purpose and key features.
 .. Replace 'installation', 'usage', 'api', 'contributing', and 'about' with the
    actual filenames (without the .rst extension) of your other documentation pages.
    Ensure these files exist in the same directory or a subdirectory.
-    .. meta::
-       :google-site-verification: <KtHpoBfGcAVZN4Q-a_QQP9kGo2B5eCaorUVbOvU4inE>
+
+.. meta::
+  :google-site-verification: <KtHpoBfGcAVZN4Q-a_QQP9kGo2B5eCaorUVbOvU4inE>
